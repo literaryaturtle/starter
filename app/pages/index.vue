@@ -9,7 +9,7 @@
         target: '_blank',
         trailingIcon: 'i-lucide-arrow-right',
         size: 'xl'
-      }]
+      }]"
     />
 
     <UPageSection
