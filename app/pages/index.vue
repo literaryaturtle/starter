@@ -34,21 +34,14 @@
     <UPageSection>
       <UPageCTA
         title="Ready to manage your accounts?"
-        description="Join thousands of developers building with Nuxt and Nuxt UI. Get this template and start shipping today."
+        description="Join today."
         variant="subtle"
         :links="[{
-          label: 'Start building',
-          to: 'https://ui.nuxt.com/docs/getting-started/installation/nuxt',
+          label: 'Join now',
+          to: 'https://dash.lumitone.xyz',
           target: '_blank',
           trailingIcon: 'i-lucide-arrow-right',
           color: 'neutral'
-        }, {
-          label: 'View on GitHub',
-          to: 'https://github.com/nuxt-ui-templates/starter',
-          target: '_blank',
-          icon: 'i-simple-icons-github',
-          color: 'neutral',
-          variant: 'outline'
         }]"
       />
     </UPageSection>
